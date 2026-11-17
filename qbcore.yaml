@@ -1,6 +1,6 @@
 $engine: 3
 $onesync: on
-name: QBCore Framework
+nombre : https://raw.githubusercontent.com/qbcore-fivem/txAdminRecipe/main/qbcore.yaml
 version: 2.2.4
 author: JericoFx & Kakarot & Hamy
 description: An advanced FiveM RP framework including jobs, gangs, housing & more!
